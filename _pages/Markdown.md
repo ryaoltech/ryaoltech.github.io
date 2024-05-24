@@ -1,8 +1,8 @@
 ---
-title: "Developing in Java"
+title: "Creating Markdown Page"
 tags:
-    - Algorithms
-    - OOP
+    - Markdown
+    - Embbeding html
     - Developer
 date: "2023-09-05"
 thumbnail: "/assets/img/thumbnail/java.png"
