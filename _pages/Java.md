@@ -1,11 +1,11 @@
 ---
-title: "Markdown from A to Z"
+title: "Developing in Java"
 tags:
-    - user manual
-    - markdown
-    - writing format
+    - Algorithms
+    - OOP
+    - Developer
 date: "2023-09-05"
-thumbnail: "/assets/img/thumbnail/sample.png"
+thumbnail: "/assets/img/thumbnail/java.png"
 bookmark: true
 ---
 
