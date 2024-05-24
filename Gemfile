@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-git_source(:github) {|supply| "https://github.com/YJPL/{supply}" }
+git_source(:github) {|Ruben| "https://github.com/YJPL/{supply}" }
 
 gem "jekyll"
 
