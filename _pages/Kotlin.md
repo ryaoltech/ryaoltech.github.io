@@ -22,6 +22,16 @@ To comment, visitors must authorize the giscus app to post on their behalf using
 
 You need a GitHub repository first. If you gonna use *GitHub Pages* for hosting your website, you can choose the corresponding repository (i.e., `[userID].github.io`)
 
+
+
+## Link to Jupyter Notebook
+
+You can view the Jupyter notebook [here](https://github.com/ryaoltech/COMP263_deeplearning_G5_tumorbrain/blob/main/Part1/Scripts/COMP263_GROUP5_Brain_Tumor_CNN_with_Data_Agmentation.ipynb).
+
+## Embedded Jupyter Notebook
+
+<iframe src="https://github.com/ryaoltech/COMP263_deeplearning_G5_tumorbrain/blob/main/Part1/Scripts/COMP263_GROUP5_Brain_Tumor_CNN_with_Data_Agmentation.ipynb" width="800" height="600"></iframe>
+
 The repository should be **public**, otherwise visitors will not be able to view the discussion.
 
 ## Turn on Discussion feature

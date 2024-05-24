@@ -1,15 +1,15 @@
-title: example.com
+title: Ruben Ormeno
 description: "Satellite - jekyll blog theme"
 logo_img: "/assets/img/favicon.webp"
-profile_img: "/assets/img/profile.webp"
+profile_img: "/assets/img/ruben.jpg"
 url: "https://ryaoltech.github.io"
 
 # Social Links
-email: example@gmail.com
-github_username: github
+email: yormeno@gmail.com
+github_username: ryaoltech
 twitter_username: twitter
 instagram_username: instagram
-linkedin_username: linkedin
+linkedin_username: ruben-ormeno-lopez
 facebook_username: facebook
 
 # External API
