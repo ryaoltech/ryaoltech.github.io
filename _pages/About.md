@@ -66,8 +66,74 @@ The most relevant courses and hands-on experience:
 >• Configured and provisioned Genesys Cloud to integrate with the carrier of the customer.
 >• Reviewed Log files and did troubleshooting to solve the issues in production environment.
 
+>*Most important Projects:*
+>- **Creating a whatsapp bot for a Bank in Paraguay**
+>    Role: Technical lead of digital channel
+>    Platform and applications used: Windows Server, Linux, MSSQL Server EE, Whatsapp APIs, Groovy, GIA, DMS, Botgateway, and MCPs.
+>- **Customization IVR of a Bank in Peru**
+>    Role: IVR Developer
+>    Platform and applications used: GIA, Groovy, REST APIs, Postman, Swaggers, GVP, SIPServer, PowerBI.
+>- **Migration of the contact center of a Bank in Peru**
+>    Role: Technical lead of digital channel/Quality Assurance
+>    Platform and applications used: Windows Server, Linux, MSSQL Server, Cassandra, Apache Web Services, HTML/Javascript, Pop3/IMAP/SMTP, Eclipse Java Composer, TLS 1.2, REST APIs, Groovy, Postman, JVM, GIA, URS, Email Server, Chat Server, Genesys Framework, DBServer, Infomart, WDE, SIPServer, MCP, GVP, VXML, Docker and Kubernates.
+>- **Implement MVP Genesys Cloud in different customers**
+>    Role: IT Consultant
+>    Platform and applications used: AWS Cloud, Genesys Cloud, Postman, WebRTC, and Genesys Architect.
+>- **IVR Support - Telecommunication Comp in Argentina**
+>    Role: Support Analyst
+>    Platform and applications used: GIA, SIPServer, GCP Text to Speech, IBM Watson bot, Rest APIs, Postman, and Json.
 
+## Co-Founder/ IT Project Manager
+---
+### Goscorp (*May 2013 - Dec 2018*)
+>• Planning and executing project WBS
+>• Actively built relationships with customer stakeholders and external partners.
+>• Reported the project progress and actions to the stakeholders.
+>• Managed the assignment of 12 team members: 4 to IT Support Team and 8 to IT Project Team.
+>• Managed projects with Banks, Telecommunication Companies, and Retails according to their standards.
+>• Managed IT support service to Retail Enterprise in 4 countries complying with SLA defined in the contract. Retail Company is in Peru, Chile, Argentina and Colombia.
+>• Supervised and implemented a chat application in a Colombian telecommunication company to improve the communication with their customers.
+>• Managed the training of the team to keep them updated and certified in Genesys applications.
+>• Managed developing projects in java/javascript for the IVR of telecommunications companies and PHP web to customize some features.
+>• Managed the implementation of new functionalities to an IVR Bank in .Net.
+>• Presented and proposed new services to prospective clients.
 
+## IT Project Manager
+---
+### Saga Falabella (*Oct 2013 - Jan 2014*)
 
+>• Planning and executing project WBS
+>• Guided stakeholders to create business cases
+>• Managed the stakeholder expectations
+>• Managed the scope and time of the project
+>• Reported the project progress, risks, and following actions to the stakeholders
+>• Coordinated the transfer of knowledge
+>• Managed the delivery and closure of projects
 
+## Solution Analyst 2
+---
+### Everis (*Apr 2012 - Apr 2013*)
 
+>• Tech lead of the team to support and develop new features of the Bank
+>• Kept the 6 members team updated with the new features of Genesys applications to give the support service
+>• Helped and supported the team to resolve the issues quickly
+>• kept the contact center platform up 99% the 24 hours of the 7 days of the weeks according to the contract
+
+## Application Analyst Assistant Manager
+---
+### Banco de Credito BCP (*Nov 2009 - Mar 2012*)
+
+>• Conferenced with the users, defined their requirements and followed the software development cycle to implement the business needs
+>• Evaluated if the project would be developed with intern resources or with software development providers
+>• Coordinated with IT Architects team and Cybersecurity team to follow the Bank's standards
+>• Negotiated the contract addendums with the software development providers
+>• Advised the purchase of the equipment and technological resources of the contact center bank
+>• Managed the implementation of the high availability of the contact center of the bank
+>• Assured the quality of the new software releases in the contact center bank
+
+## Software Engineer
+---
+### Telectronic (*Jan 2006 - Jan 2009*)
+>• Analyzed the requirements of the client, designed and developed web pages for one of the biggest Peruvian bank. (Used JSP with Struts framework and MSSQL Server 2000)
+>• Analyzed the requirements of the client, designed and deployed the Genesys contact center in telecommunications companies. (JSP, strut framework, Oracle database 10g)
+>• Improved telemarketing and collecting areas of the banks to automate the dialing campaigns to contact their customers. (Using dialogic PCI cards)

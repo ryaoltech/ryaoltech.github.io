@@ -5,13 +5,15 @@ tags:
     - Scikit-learn
     - Developer
 date: "2024-03-10"
-thumbnail: "/assets/img/thumbnail/scikitlearn.png"
+thumbnail: "/assets/img/thumbnail/kMeans.png"
 bookmark: true
 ---
 
 # Unsupervised Learning: Exploring Key Techniques
+---
 
 ## Principal Component Analysis (PCA)
+---
 PCA is a dimensionality reduction technique that identifies the most important features in your data. It's commonly used for feature extraction, noise reduction, and visualization.
 
 ### How to Use PCA:
@@ -22,6 +24,7 @@ PCA is a dimensionality reduction technique that identifies the most important f
 5. Transform your data using these components.
 
 ## K-Means Clustering
+---
 K-Means groups similar data points into clusters. It's useful for customer segmentation, anomaly detection, and recommendation systems.
 
 ### How to Use K-Means:
@@ -32,6 +35,7 @@ K-Means groups similar data points into clusters. It's useful for customer segme
 5. Repeat steps 3 and 4 until convergence.
 
 ## Gaussian Mixture Models (GMM)
+---
 GMM represents data as a mixture of Gaussian distributions. It's great for density estimation, anomaly detection, and image segmentation.
 
 ### How to Use GMM:
@@ -42,6 +46,7 @@ GMM represents data as a mixture of Gaussian distributions. It's great for densi
 3. Repeat the EM steps until convergence.
 
 ## Hierarchical Clustering
+---
 Hierarchical Clustering builds a tree-like structure of data points. It's useful for visualizing relationships and creating dendrograms.
 
 ### How to Use Hierarchical Clustering:
@@ -50,6 +55,7 @@ Hierarchical Clustering builds a tree-like structure of data points. It's useful
 3. Continue merging until all points belong to a single cluster or meet a stopping criterion.
 
 ## Autoencoders
+---
 Autoencoders are neural networks used for unsupervised feature learning and data compression.
 
 ### How to Use Autoencoders:

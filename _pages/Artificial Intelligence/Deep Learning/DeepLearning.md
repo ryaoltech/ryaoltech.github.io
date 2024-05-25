@@ -5,18 +5,18 @@ tags:
     - Tensorflow
     - Developer
 date: "2024-03-05"
-thumbnail: "/assets/img/thumbnail/tensorflow.png"
+thumbnail: "/assets/img/thumbnail/NeuralNetwork.png"
 bookmark: true
 ---
 
 
 
 # Deep Learning Models with TensorFlow and Keras
-
+---
 I explored various deep learning models using TensorFlow and Keras. These models are essential for tasks such as image recognition, natural language processing, and generative art.
 
 ## Convolutional Neural Networks (CNNs)
-
+---
 ### Overview
 **Convolutional Neural Networks (CNNs)** are widely used for image classification tasks. They learn hierarchical features from input images by applying convolutional layers, pooling layers, and fully connected layers.
 
@@ -26,7 +26,7 @@ I explored various deep learning models using TensorFlow and Keras. These models
 - **Fully Connected Layers**: These layers connect all neurons from the previous layer to the current layer.
 
 ## Recurrent Neural Networks (RNNs)
-
+---
 ### Overview
 **Recurrent Neural Networks (RNNs)** are designed for sequential data, such as time series or natural language. They maintain hidden states to capture temporal dependencies.
 
@@ -36,7 +36,7 @@ I explored various deep learning models using TensorFlow and Keras. These models
 - **Gated Recurrent Unit (GRU)**: Another RNN variant with fewer parameters than LSTM.
 
 ## Generative Adversarial Networks (GANs)
-
+---
 ### Overview
 **Generative Adversarial Networks (GANs)** consist of a generator and a discriminator. They learn to generate realistic data by competing against each other.
 
@@ -46,7 +46,7 @@ I explored various deep learning models using TensorFlow and Keras. These models
 - **Training Process**: The generator and discriminator improve iteratively through adversarial training.
 
 ## Autoencoders
-
+---
 ### Overview
 **Autoencoders** learn efficient representations of input data. They consist of an encoder and a decoder.
 

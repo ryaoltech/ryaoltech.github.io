@@ -10,11 +10,11 @@ bookmark: true
 ---
 
 # Inheritance in Java
-
+---
 Inheritance is a mechanism in object-oriented programming that allows one class to inherit the properties (fields) and behaviors (methods) of another class. This helps in reusing code and establishing a natural hierarchical relationship between classes.
 
 ## Step-by-Step Guide
-
+---
 ### Step 1: Create the Superclass
 
 Define a superclass (or parent class) with some fields and methods.

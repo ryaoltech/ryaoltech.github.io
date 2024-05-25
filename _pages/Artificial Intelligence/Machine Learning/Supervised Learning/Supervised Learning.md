@@ -10,11 +10,12 @@ bookmark: true
 ---
 
 # Supervised Learning with scikit-learn, Matplotlib, pandas, and NumPy
-
+---
+---
 I explored essential concepts related to supervised learning, along with practical examples using popular Python libraries.
 
 ## Data Exploration
-
+---
 ### Overview
 Data exploration is a crucial step in any machine learning project. It involves understanding the dataset, checking for missing values, visualizing distributions, and identifying potential outliers.
 
@@ -24,7 +25,7 @@ Data exploration is a crucial step in any machine learning project. It involves 
 - **Data Visualization**: Create plots using Matplotlib to visualize data distributions, correlations, and trends.
 
 ## Feature Engineering
-
+---
 ### Overview
 Feature engineering enhances the quality of input features for machine learning models. It involves creating new features, transforming existing ones, and selecting relevant variables.
 
@@ -35,43 +36,44 @@ Feature engineering enhances the quality of input features for machine learning 
 - **Feature Selection**: Choose relevant features using techniques like Recursive Feature Elimination (RFE) or feature importance scores.
 
 ## Models
-
-### Logistic Regression
-
-#### Overview
+---
+---
+## Logistic Regression
+---
+### Overview
 Logistic regression is a binary classification algorithm that predicts the probability of an instance belonging to a particular class.
 
-#### Implementation
+### Implementation
 - Use scikit-learn's `LogisticRegression` class.
 - Train the model on labeled data.
 - Evaluate its performance using metrics like accuracy, precision, and recall.
 
-### KNeighborsClassifier
-
-#### Overview
+## KNeighborsClassifier
+---
+### Overview
 The K-Nearest Neighbors (KNN) algorithm classifies instances based on their similarity to neighboring data points.
 
-#### Implementation
+### Implementation
 - Use scikit-learn's `KNeighborsClassifier`.
 - Set the number of neighbors (K) and other hyperparameters.
 - Fit the model to the training data and make predictions.
 
-### RandomForest
-
-#### Overview
+## RandomForest
+---
+### Overview
 Random Forest is an ensemble method that combines multiple decision trees to improve predictive accuracy.
 
-#### Implementation
+### Implementation
 - Use scikit-learn's `RandomForestClassifier` for classification or `RandomForestRegressor` for regression.
 - Tune hyperparameters like the number of trees and maximum depth.
 - Assess model performance using cross-validation.
 
-### Support Vector Machines (SVM)
-
-#### Overview
+## Support Vector Machines (SVM)
+---
+### Overview
 SVM is a powerful algorithm for both classification and regression tasks. It finds the optimal hyperplane that best separates data points.
 
-#### Implementation
+### Implementation
 - Use scikit-learn's `SVC` (for classification) or `SVR` (for regression).
 - Choose the appropriate kernel (linear, polynomial, or radial basis function).
 - Train the model and evaluate its performance.
