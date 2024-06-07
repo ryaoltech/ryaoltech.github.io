@@ -11,10 +11,7 @@ bookmark: true
 
 
 
-**Graduated with Honors** from Artificial Intelligence Adv. Diploma and with a **PMP Certification** (*ID: 1745763*) valid until August 2026, I bring over 5 years of adept management experience in software development projects and more than a decade of expertise in developing and implementing software solutions tailored for contact centers. Additionally, I have demonstrated proficiency in leading software support teams dedicated to optimizing call center operations. 
-
-My background includes extensive experience in gathering and translating business requirements
-into actionable solutions, coupled with a proven track record of effective communication to assist clients and convey technical solutions to diverse stakeholders. Recognized as an excellent problem solver with robust analytical skills, I am fluent in both English and Spanish, facilitating seamless communication across multicultural environments.
+At the intersection of quality assurance and artificial intelligence, my role as a Software QA Engineer is all about ensuring the impeccable performance of mobile applications. Leveraging expertise in regression, smoke, and functional testing, I meticulously scrutinize iOS and Android platforms to maintain and elevate software standards. My toolkit includes Jira for defect management, Zephyr for test case improvement, and proxyman for HTTP request/response mocking, all of which contribute to the robustness of the products our team delivers.
 
 # Education
 ---
@@ -83,19 +80,18 @@ The most relevant courses and hands-on experience:
 >    Role: Support Analyst
 >    Platform and applications used: GIA, SIPServer, GCP Text to Speech, IBM Watson bot, Rest APIs, Postman, and Json.
 
-## Co-Founder/ IT Project Manager
+## Quality Assurance Engineer
 ---
 ### Goscorp (*May 2013 - Dec 2018*)
->• Planning and executing project WBS
->• Actively built relationships with customer stakeholders and external partners.
->• Reported the project progress and actions to the stakeholders.
->• Managed the assignment of 12 team members: 4 to IT Support Team and 8 to IT Project Team.
->• Managed projects with Banks, Telecommunication Companies, and Retails according to their standards.
->• Managed IT support service to Retail Enterprise in 4 countries complying with SLA defined in the contract. Retail Company is in Peru, Chile, Argentina and Colombia.
->• Supervised and implemented a chat application in a Colombian telecommunication company to improve the communication with their customers.
->• Managed the training of the team to keep them updated and certified in Genesys applications.
->• Managed developing projects in java/javascript for the IVR of telecommunications companies and PHP web to customize some features.
->• Managed the implementation of new functionalities to an IVR Bank in .Net.
+>• Lead QA team.
+>• Executed functional testing, regression testing, black box and white box testing (IVR, Outbound Campaigns, Agent Desktops, Integration with SAP, Saleforce, desktop applications, realtime/historical reporting, and ETL)
+>• Coordinated the UAT testing, defining the date, prepared the testing data, and verified the environment was appropriate before.
+>• Managed the assignment of team members to projects.
+>• Managed testing projects with Banks, Telecommunication Companies, and Retails according to their standards.
+>• Created the test plans.
+>• Created the test cases.
+>• Estimated the time for execution of test cases.
+>• Track and control the testing progress.
 >• Presented and proposed new services to prospective clients.
 
 ## IT Project Manager
